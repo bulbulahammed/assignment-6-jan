@@ -1,0 +1,241 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/*-------Banner part css Start-------------*/
+.banner{
+    margin-top:150px;
+    height:600px;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left:2%;
+}
+.banner-text-part{}
+.banner-text-part h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    font-weight:bold;
+    color:#363958;
+    margin:0;
+}
+.colored-title{
+    color:tomato;
+}
+.banner-text-part p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color:#363958;
+    margin:0;
+    padding-top:35px;
+    padding-bottom:50px;
+    line-height: 24px;
+}
+.hire-button{
+    text-decoration: none;
+    font-size: 24px;
+    background-color:tomato;
+    padding: 17px 42px;
+    border-radius: 5px;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+.banner-image-part img{
+   width:100%;
+}
+/*------- Banner part css end-------------*/
+
+/*------- About part css Start-------------*/
+.about{
+    height:800px;
+}
+.about-img-part img{
+    width:100%;
+}
+.about-text-part{}
+.about-text-part h2{
+    font-size: 48px;
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.about-text-part p{
+    font-size: 16px;
+    color:#363958;
+    padding-bottom:60px;
+    line-height: 24px;
+}
+
+.about-text-part a{
+
+}
+
+.cv-button{
+    text-decoration: none;
+    font-size: 24px;
+    background-color:tomato;
+    padding: 17px 42px;
+    border-radius: 5px;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+/*------- about part css end-------------*/
+
+
+/*------- Expertice part css Start-------------*/
+.my-expertice{
+    height:300px;
+    padding-bottom:100px;
+}
+.expertice-area{}
+.expertice-title h2{
+    font-size: 48px;
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+    text-align:center;
+}
+.single-expertice{
+    width:18%;
+    margin-left:6%;
+    float:left;
+}
+.single-expertice h2{
+    font-size: 35px;
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.single-expertice h4{
+    font-size: 25px;
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+    color:tomato;
+}
+/*------- Expertice part css end-------------*/
+
+/*------- Project6 part css Start-------------*/
+.project-area{
+    background-color:#E5E5E5;
+    padding-top:100px;
+    padding-bottom:100px;
+    height:600px;
+}
+.project-title{
+    text-align:center;
+    padding-bottom: 50px;
+} 
+.project-title h3{
+    text-align:center;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+}
+.single-project{
+    width:25%;
+    margin-left:5%;
+    padding-left:1%;
+    float:left;
+    background-color:#fff;
+    border-radius:10px;
+    box-shadow: 10px 10px 50px gray;
+}
+
+.single-project img{
+    width:100%;
+}
+.single-project h3{
+    font-size:24px;
+    color:#363958;
+}
+.single-project p{
+    font-size:16px;
+    color:#6C6C6C;
+}
+/*------- Project6 part css end-------------*/
+
+
+/*------- Inquiry part css Start-------------*/
+.inquiry{
+    text-align: center;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+.inquiry-inner{
+    background-image: url(images/inquiry-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    width:50%;
+    height:186px;
+    margin-left:25%;
+}
+
+.inquiry-title{
+    float:left;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    color:#ffffff;
+}
+.inquiry-title h3{
+    margin-left:85px;
+}
+
+.inquiry-button{
+    float:right;
+}
+.inquiry-button{
+    margin-right:85px;
+    margin-top:77px;
+}
+.inquiry-button a{
+    text-decoration: none;
+    font-size: 24px;
+    background-color:tomato;
+    padding: 17px 42px;
+    border-radius: 5px;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+/*------- Inquiry part css end-------------*/
+
+
+/*------- Footer part css Start-------------*/
+footer{
+    margin-bottom:100px;
+}
+.footer-content{
+    width:25%;
+    margin-left:40%;
+    text-align: center;
+}
+
+.footer-content h4{
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Bebas Neue', cursive;
+  color:#696871;
+  margin: 0 auto;
+}
+
+.footer-content h3{
+  font-size: 36px;
+  font-weight: bold;
+  color:#363958;
+  margin: 0 auto;
+  padding-top:10px;
+  padding-bottom:15px;
+}
+.footer-icons{}
+.single-icon{
+    width:15%;
+    padding-left:13%;
+    float:left;
+}
+
+.single-icon img{
+    width:100%;
+}
+/*------- Footer part css end-------------*/
